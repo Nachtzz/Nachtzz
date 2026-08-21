@@ -5,10 +5,10 @@
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
 𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢
  
-- 🔭 estudando **lógica de programação / HTML / CSS**
-- 🌱 aprendendo algo novo toda semana e documentando aqui no GitHub
-- ⚔️ curto resolver problema, quebrar as coisas e consertar de novo
-- 🎯 meta: virar dev de verdade, um commit de cada vez
+-  estudando **lógica de programação / HTML / CSS**
+-  aprendendo algo novo toda semana e documentando aqui no GitHub
+-  curto resolver problema, quebrar as coisas e consertar de novo
+-  meta: virar dev de verdade, um commit de cada vez
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
 <div align="center">
 <img src="https://media.giphy.com/media/13G7ANtODYBWlq/giphy.gif" width="420" alt="anime coding vibes"/>
