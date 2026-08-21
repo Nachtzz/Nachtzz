@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B392F0&center=true&vCenter=true&width=560&lines=aprendendo+a+programar+de+verdade;quebrando+bug+atr%C3%A1s+de+bug;construindo+coisa+nova+toda+semana" alt="typing" />
 </div>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-🥷 sobre mim
+𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢
  
 - 🔭 estudando **lógica de programação / HTML / CSS**
 - 🌱 aprendendo algo novo toda semana e documentando aqui no GitHub
@@ -16,14 +16,14 @@
 <sub><i>"o fraco não sobrevive." — um commit por vez</i></sub>
 </div>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-🛠️ tecnologias e ferramentas
+𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙚 𝙛𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-🚀 projetos em destaque
+𝙋𝙧𝙤𝙟𝙚𝙩𝙤𝙨
  
 <p align="center">
   <a href="https://github.com/Nachtzz/truppe">
