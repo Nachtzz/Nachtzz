@@ -21,15 +21,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
-📊 estatísticas
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nachtzz&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachtzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachtzz&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
-</p>
+
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
 🚀 projetos em destaque
  
