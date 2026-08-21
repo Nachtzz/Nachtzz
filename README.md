@@ -10,11 +10,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente estudando **[lógica de programação / HTML / CSS]**
+- 🔭 Atualmente estudando **lógica de programação / HTML / CSS**
 - 🌱 Aprendendo algo novo toda semana e documentando aqui no GitHub
 - 💡 Curto resolver problemas, mexer em projetos pequenos e ver eles funcionando
 - 🎯 Meta: virar um dev de verdade, um commit de cada vez
-- ⚡ Fun fact: **[coloque algo pessoal aqui, tipo hobby ou curiosidade]**
 
 ---
 
