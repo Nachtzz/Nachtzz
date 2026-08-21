@@ -13,7 +13,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/13G7ANtODYBWlq/giphy.gif" width="420" alt="anime coding vibes"/>
 <br/>
-<sub><i>"o fraco não sobrevive." — foco total, um commit por vez</i></sub>
+<sub><i>"o fraco não sobrevive." — um commit por vez</i></sub>
 </div>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
 🛠️ tecnologias e ferramentas
