@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B392F0&center=true&vCenter=true&width=560&lines=aprendendo+a+programar+de+verdade;quebrando+bug+atr%C3%A1s+de+bug;construindo+coisa+nova+toda+semana" alt="typing" />
 </div>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-### 🥷 sobre mim
+🥷 sobre mim
  
 - 🔭 estudando **lógica de programação / HTML / CSS**
 - 🌱 aprendendo algo novo toda semana e documentando aqui no GitHub
@@ -16,12 +16,12 @@
 <sub><i>"o fraco não sobrevive." — foco total, um commit por vez</i></sub>
 </div>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-### 🛠️ tecnologias e ferramentas
+🛠️ tecnologias e ferramentas
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
-### 📊 estatísticas
+📊 estatísticas
  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nachtzz&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
@@ -31,7 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachtzz&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-### 🚀 projetos em destaque
+🚀 projetos em destaque
  
 <p align="center">
   <a href="https://github.com/Nachtzz/truppe">
@@ -40,7 +40,7 @@
 </p>
 <p align="center"><b>truppe</b> — aplicativo de conversação em desenvolvimento 🚧💬</p>
 <p align="center">━━━━━━━━━━━━━━━━ ✞ ━━━━━━━━━━━━━━━━</p>
-### 📫 onde me achar
+📫 onde me achar
  
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-nchtzin-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord: nchtzin" />
